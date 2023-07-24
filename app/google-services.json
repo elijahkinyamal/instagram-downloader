@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353444291964",
+    "project_id": "video-downloader-5c665",
+    "storage_bucket": "video-downloader-5c665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353444291964:android:a4a44cd1c93446084870f9",
+        "android_client_info": {
+          "package_name": "com.namelox.instagram.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353444291964-nta98n304achqcun4ppsg48l5cu2lub1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namelox.instagram.downloader",
+            "certificate_hash": "34741ba1f25239df682caa1a63c6e58813b943ea"
+          }
+        },
+        {
+          "client_id": "353444291964-0pgv2j9us6bn5me3pr08phth8qs2bhqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOf1RpN7zGU5eo8BXJ8BWPuHC3d23ajQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353444291964-0pgv2j9us6bn5me3pr08phth8qs2bhqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

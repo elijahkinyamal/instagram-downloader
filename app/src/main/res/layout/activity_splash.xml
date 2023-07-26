@@ -8,12 +8,12 @@
 
     <ImageView
         android:id="@+id/imageViewLogo"
-        android:layout_width="250dp"
+        android:layout_width="280dp"
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:src="@drawable/logo_splash"
         app:tint="@color/white"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="110dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"/>
 

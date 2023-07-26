@@ -19,13 +19,13 @@
         <View
             android:layout_width="30dp"
             android:layout_height="5dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="19dp"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/background_submit"/>
 
         <ImageView
             android:layout_width="60dp"
-            android:layout_height="60dp"
+            android:layout_height="50dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
             android:src="@drawable/ic_round_logout"
@@ -44,7 +44,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="20dp"
+            android:paddingTop="30dp"
             android:paddingBottom="20dp"
             android:paddingStart="10dp"
             android:paddingEnd="10dp"
@@ -71,7 +71,7 @@
             <TextView
                 android:id="@+id/textViewYes"
                 android:layout_width="0dp"
-                android:layout_height="45dp"
+                android:layout_height="35dp"
                 android:layout_weight="1"
                 android:layout_marginStart="8dp"
                 android:layout_marginEnd="8dp"

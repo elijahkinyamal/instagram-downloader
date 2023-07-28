@@ -5,12 +5,12 @@
     android:layout_width="65dp"
     android:layout_height="wrap_content"
     android:layout_marginStart="5dp"
-    android:layout_marginEnd="5dp">
+    android:layout_marginEnd="6dp">
 
     <RelativeLayout
         android:id="@+id/relativeLyoutUser"
         android:layout_width="match_parent"
-        android:layout_height="65dp"
+        android:layout_height="66dp"
         android:padding="3.5dp"
         android:background="@drawable/background_status_circle">
 
@@ -27,11 +27,11 @@
         android:id="@+id/textViewName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="10sp"
+        android:textSize="11sp"
         android:textColor="?attr/textColor"
         android:ellipsize="end"
         android:fontFamily="@font/sans"
-        android:layout_marginTop="7dp"
+        android:layout_marginTop="8dp"
         android:text=""
         android:maxLines="1"
         android:layout_below="@+id/relativeLyoutUser"
@@ -45,7 +45,7 @@
         android:textColor="?attr/textColor"
         android:ellipsize="end"
         android:fontFamily="@font/sans"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="3dp"
         android:text=""
         android:maxLines="1"
         android:layout_below="@+id/textViewName"

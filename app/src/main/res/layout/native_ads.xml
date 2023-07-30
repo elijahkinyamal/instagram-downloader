@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="#FFFFFF"
-        android:minHeight="50dp"
+        android:minHeight="51dp"
         android:orientation="vertical">
 
         <TextView style="@style/AppTheme.AdAttribution"/>
@@ -17,8 +17,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:paddingLeft="20dp"
-            android:paddingRight="20dp"
+            android:paddingLeft="21dp"
+            android:paddingRight="21dp"
             android:paddingTop="3dp">
 
             <LinearLayout
@@ -67,7 +67,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:isIndicator="true"
-                            android:numStars="5"
+                            android:numStars="8"
                             android:stepSize="0.5" />
                     </LinearLayout>
 
@@ -84,15 +84,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginRight="20dp"
-                    android:layout_marginEnd="20dp"
+                    android:layout_marginEnd="22dp"
                     android:textSize="12sp"
                     android:textColor="@color/textGray_light"/>
 
                 <com.google.android.gms.ads.formats.MediaView
                     android:id="@+id/ad_media"
                     android:layout_gravity="center_horizontal"
-                    android:layout_width="250dp"
-                    android:layout_height="175dp"
+                    android:layout_width="252dp"
+                    android:layout_height="173dp"
                     android:layout_marginTop="5dp" />
 
                 <LinearLayout

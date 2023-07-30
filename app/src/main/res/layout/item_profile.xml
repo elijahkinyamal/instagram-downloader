@@ -2,10 +2,10 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/relativeLayoutContent"
-    android:layout_width="65dp"
+    android:layout_width="66dp"
     android:layout_height="wrap_content"
-    android:layout_marginStart="5dp"
-    android:layout_marginEnd="6dp">
+    android:layout_marginStart="6dp"
+    android:layout_marginEnd="7dp">
 
     <RelativeLayout
         android:id="@+id/relativeLyoutUser"
@@ -31,7 +31,7 @@
         android:textColor="?attr/textColor"
         android:ellipsize="end"
         android:fontFamily="@font/sans"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="10dp"
         android:text=""
         android:maxLines="1"
         android:layout_below="@+id/relativeLyoutUser"
@@ -41,11 +41,11 @@
         android:id="@+id/textViewUser"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="10sp"
+        android:textSize="11sp"
         android:textColor="?attr/textColor"
         android:ellipsize="end"
         android:fontFamily="@font/sans"
-        android:layout_marginTop="3dp"
+        android:layout_marginTop="6dp"
         android:text=""
         android:maxLines="1"
         android:layout_below="@+id/textViewName"

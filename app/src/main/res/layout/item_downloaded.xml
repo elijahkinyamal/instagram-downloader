@@ -19,8 +19,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
-            app:cardCornerRadius="2dp"
-            android:elevation="2dp"
+            app:cardCornerRadius="7dp"
+            android:elevation="5dp"
             android:layout_margin="2.5dp">
 
             <RelativeLayout
@@ -29,14 +29,14 @@
 
                 <ImageView
                     android:id="@+id/imageViewCover"
-                    android:layout_width="60dp"
-                    android:layout_height="60dp"
+                    android:layout_width="62dp"
+                    android:layout_height="62dp"
                     android:scaleType="centerCrop"/>
 
                 <ImageView
                     android:id="@+id/imageViewPlay"
-                    android:layout_width="25dp"
-                    android:layout_height="25dp"
+                    android:layout_width="28dp"
+                    android:layout_height="27dp"
                     android:visibility="gone"
                     android:src="@drawable/ic_play_circle"
                     android:scaleType="centerInside"

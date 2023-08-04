@@ -12,16 +12,16 @@
         android:layout_height="wrap_content">
 
         <LinearLayout
-            android:weightSum="5"
+            android:weightSum="8"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <com.namelox.instagram.downloader.widget.SquareLayout
-                android:layout_weight="1"
+                android:layout_weight="2"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_margin="5dp"
+                android:layout_margin="6dp"
                 android:background="@drawable/background_circle" />
 
             <com.namelox.instagram.downloader.widget.SquareLayout
@@ -42,7 +42,7 @@
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_margin="5dp"
+                android:layout_margin="6dp"
                 android:background="@drawable/background_circle" />
 
             <com.namelox.instagram.downloader.widget.SquareLayout
@@ -58,7 +58,7 @@
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp">
+            android:layout_marginTop="6dp">
             <RelativeLayout
                 android:layout_weight="1"
                 android:layout_width="0dp"

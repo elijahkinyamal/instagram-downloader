@@ -16,7 +16,7 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/linearLayoutToolbar"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="61dp"
             android:orientation="horizontal"
             android:gravity="center_vertical"
             app:layout_constraintTop_toTopOf="parent">
@@ -34,9 +34,9 @@
 
             <ImageView
                 android:id="@+id/imageViewOpenFacebook"
-                android:layout_width="45dp"
-                android:layout_height="45dp"
-                android:padding="10dp"
+                android:layout_width="46dp"
+                android:layout_height="46dp"
+                android:padding="11dp"
                 android:src="@drawable/ic_instagram"
                 app:tint="@color/white"
                 android:layout_marginEnd="5dp"

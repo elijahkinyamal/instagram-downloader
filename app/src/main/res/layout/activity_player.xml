@@ -12,9 +12,9 @@
     <ImageView
         android:id="@+id/imageViewClose"
         android:padding="5dp"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:layout_margin="10dp"
+        android:layout_width="41dp"
+        android:layout_height="41dp"
+        android:layout_margin="11dp"
         android:src="@drawable/ic_round_arrow_back"
         app:tint="@color/white"/>
 

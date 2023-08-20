@@ -5,8 +5,8 @@
     android:layout_height="wrap_content"
     app:cardBackgroundColor="?attr/backgroundColor"
     android:elevation="5dp"
-    app:cardCornerRadius="9dp"
-    android:layout_margin="9dp">
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp">
 
     <com.namelox.instagram.downloader.widget.SquareLayout
         android:layout_width="match_parent"

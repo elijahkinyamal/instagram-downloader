@@ -5,8 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="?attr/cardBackgroundColor"
-    app:shape_roundRect_topLeftRadius="25dp"
-    app:shape_roundRect_topRightRadius="25dp"
+    app:shape_roundRect_topLeftRadius="26dp"
+    app:shape_roundRect_topRightRadius="26dp"
     android:layout_gravity="bottom"
     android:elevation="2dp">
 
@@ -18,17 +18,17 @@
         android:background="?attr/backgroundColor">
 
         <View
-            android:layout_width="30dp"
+            android:layout_width="31dp"
             android:layout_height="5dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="16dp"
             android:layout_gravity="center_horizontal"
             android:background="@drawable/background_submit"/>
 
         <ImageView
             android:layout_width="60dp"
-            android:layout_height="60dp"
+            android:layout_height="61dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="11dp"
             android:src="@drawable/ic_delete"
             app:tint="?attr/tintColor"/>
 
